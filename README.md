@@ -3,7 +3,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 ![Resim](https://mustafadurmaz.github.io/image/resim.png)
 
-Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde 1 adet README dosyası, 1 adet de index.html barındırıyor.
 
 ## Installation
 
@@ -25,3 +25,7 @@ code .
 ## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
